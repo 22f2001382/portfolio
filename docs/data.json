@@ -1,7 +1,7 @@
 {
   "metadata": {
     "email" : "22f2001382@ds.study.iitm.ac.in",
-    "version" : "403a898f",
+    "version" : "403a898f"
   },
   "products": [
   {
@@ -173,7 +173,6 @@
     "rating": 1.5
   }
 ],
-  {
   "aggregations": {
     "clothing": {
       "category": "clothing",
