@@ -177,17 +177,17 @@
     "clothing": {
       "category": "clothing",
       "count": 6,
-      "inventoryValue": 159836.02
+      "inventoryValue": 145146.92
     },
     "home": {
       "category": "home",
       "count": 3,
-      "inventoryValue": 22636.22
+      "inventoryValue": 22505.54
     },
     "sports": {
       "category": "sports",
       "count": 4,
-      "inventoryValue": 55928.47
+      "inventoryValue": 55869.35
     },
     "electronics": {
       "category": "electronics",
@@ -197,7 +197,7 @@
     "books": {
       "category": "books",
       "count": 7,
-      "inventoryValue": 223621.09
+      "inventoryValue": 203957.09
     }
   }
 }
